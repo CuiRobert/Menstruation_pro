@@ -5,7 +5,7 @@
  1. run **show_result.py** to see our  result.
  2. if you want to train your own model:
      
-     run **train_weight_QT.py** and **train_weight_ZQ.py** to get your models.
+     run **train_weight_QT.py** and **train_weight_ZQ.py**.
  4. run **test_combat_QT and ZQ_prob.py** to test your model.
 
 ### Menstruation_Classify_with_image_and_EHR
