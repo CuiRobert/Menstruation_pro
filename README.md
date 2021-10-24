@@ -12,7 +12,7 @@
 
 1. you could run **show_result.ipynb** to see our result.
 
-2. you could run **train_and_test.ipynb** to get a new model.
+2. you could run **train_and_test.ipynb** to get a new model.(before this you should trian your model in **Menstruation_Classify_with_image** then )
 
 
 ### Plot Result
