@@ -17,5 +17,5 @@
 
 ### Plot Result
 
-1.run **plot_show.ipynb** to plot our ROC Curve.
+1. run **plot_show.ipynb** to plot our ROC Curve.
 
