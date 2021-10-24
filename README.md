@@ -15,7 +15,7 @@
 2. you could run **train_and_test.ipynb** to get a new model.
 
 
-### Plot Image
+### Plot Result
 
 1.run **plot_show.ipynb** to plot our ROC Curve.
 
