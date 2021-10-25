@@ -22,7 +22,8 @@
 1. run **plot_show.ipynb** to plot our ROC Curve.
 
 ### Data Download
-1. https://drive.google.com/drive/folders/1NfRtNosakgsbJwv_-sOcf9NNdExRa30Q?usp=sharing ()
+
+1. https://drive.google.com/drive/folders/1NfRtNosakgsbJwv_-sOcf9NNdExRa30Q?usp=sharing (ask owner for permission)
  https://pan.baidu.com/s/12IsUHJ084ZQbrJTl4My_bg  (ask owner for Enter code)
 2. github: https://github.com/CuiRobert/Menstruation_pro
 
